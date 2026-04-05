@@ -1,0 +1,9 @@
+customtkinter
+pynput
+Pillow
+python-docx
+reportlab
+pywin32
+mss
+packaging
+playwright
